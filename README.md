@@ -3,7 +3,7 @@
 This repositories include all of codes in the Santa Competition https://www.kaggle.com/c/santander-value-prediction-challenge
 
 This competition is just a hunting leak problem, that means you can find directly some targets of test set from certan columns of train set. 
-My solution include 2 similar models, lgbm and xgboost. It easy to get 1.37 in LP without leakm 5 mins trainng. After that I blending 2 solutions  without leak and fill the leakly columns. With the simple code, I get 0.51 in LB and got silve.  
+My solution include 2 similar models, lgbm and xgboost. It easy to get 1.37 in LP without leak with 5 mins training. After that I blending 2 solutions  without leak and fill the leakly columns. With the simple code, I get 0.51 in LB and got silve.  
 With leaky teachnic hunting you can find in https://www.kaggle.com/nulldata/jiazhen-to-armamut-via-gurchetan1000-0-56
 
 Some descritions of my solution
